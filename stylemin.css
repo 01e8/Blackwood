@@ -1,0 +1,698 @@
+@media screen and (max-width: 1366px) {
+
+    #headimg {
+        width: 1366px;
+        height: 528px;
+        margin-left: calc(50% - 683px);
+    }
+    #footerbackimg {
+        width: 100%;
+        height: 404px;
+    }
+    #headform {
+        height: 360px;
+        width: 290px;
+        margin-top: 270px;
+        margin-left: calc(100% - 310px);
+    }
+    #content {
+        position: absolute;
+        width: 100%;
+        margin-left: 0px;
+    }
+    #tittle {
+        position: absolute;
+        height: 210px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.7;
+        z-index: 1;
+    }
+
+    #tittletext {
+        position: absolute;
+        width: 800px;
+        height: 84px;
+        padding-top: 140px;
+        margin-left: calc(50% - 420px);
+        color: #00aeef;
+        text-align: right;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 40px;
+    }
+    
+    #phonehead {
+        position: absolute;
+        height: 84px;
+        padding-top: 50px;
+        margin-left: calc(100% - 390px);
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 50px;
+    }
+
+    #logopicture {
+        position: absolute;
+        z-index: 20;
+        overflow: hidden;
+        height: auto;
+        margin-top: 30px;
+        margin-left: 80px;
+    }
+
+    #logopictureimg {
+        height: 80px;
+        width: auto;
+    }
+    .one {
+        margin-left: calc(50% - 320px); 
+    }
+    .three {
+        margin-left: calc(50% - 480px);
+    }
+    .four {
+        margin-left: 10px; 
+    }
+    .six {
+        margin-left: calc(50% - 320px); 
+    }
+    #pomoguttext1{
+        width: 70%;
+        margin-left: calc(50% - 400px);
+    }
+    #pomoguttext2{
+        width: 70%;
+        margin-left: calc(50% - 400px);
+    }
+    .noneimg13 {
+        display: none;
+    }
+    #doubleform {
+	   height: 350px; 
+    }
+    #oneform {
+	    margin-left: calc(50% - 255px);    
+    }
+    #twoform {
+	    margin-left: calc(50% - 255px);  
+    }
+    pochh {
+        font-size: 4vw;
+        margin-top: 0.6vw;
+        margin-bottom: 0.6vw;
+    }
+    pochp {
+        font-size: 1.7vw;
+        line-height: 3vw;
+    }
+    #pochimg {
+        height: 41vw;
+        width: auto;
+        margin-left: 1%;
+    }
+    .pochtext {
+        border: 0.3vw solid #00aeef;
+        margin-bottom: 2vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        padding-top: 0vw;
+        padding-bottom: 0vw;
+        margin-left: 1vw;
+    }
+
+    .pochfirst {
+        margin-top: 2vw;
+        padding-left: 9vw;
+        padding-right: 11vw;
+    }
+
+    .marginleft {
+        margin-left: 8vw;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    #tittle {
+        position: absolute;
+        height: 210px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.7;
+        z-index: 1;
+    }
+    #tittletext {
+        position: absolute;
+        margin-left: 10%;
+        width: 80%;
+        height: 84px;
+        padding-top: 20px;
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 28px;
+        margin-top: 140px;
+    }
+    
+    #phonehead {
+        position: absolute;
+        height: 84px;
+        padding-top: 50px;
+        margin-left: calc(100% - 390px);
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 50px;
+    }
+    
+    #logopicture {
+        position: absolute;
+        z-index: 20;
+        overflow: hidden;
+        height: auto;
+        margin-top: 30px;
+        margin-left: 80px;
+    }
+
+    #logopictureimg {
+        height: 80px;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 970px) {
+    #priem {
+        width: 90%;
+        margin-left: 5%;
+    }
+    #potreb {
+        margin-top: 5vw;
+    }
+    #pomogut {
+        margin-top: 5vw;
+        margin-bottom: 5vw;
+    }
+    h1 {
+        font-size: 5vw;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    h2 {
+        font-size: 4.5vw;
+        margin-top: 25px;
+        margin-bottom: 3vw;
+    }
+    p {
+        font-size: 2.4vw;
+        line-height: 3vw;
+    }
+    .potreblines {
+	    width: 70vw;
+        margin-left: 15vw;
+    }
+    #priemlines{
+        height: 31vw;
+    }
+    #pomogutlines1{
+        margin-top: 2vw;
+        height: 50vw;
+    }
+    #pomogutlines2{
+        margin-top: 2vw;
+        height: 55vw;
+    }
+    #pomoguttext1{
+        width: 80vw;
+        margin-left: 5vw;
+    }
+    #pomoguttext2{
+        width: 80vw;
+        margin-left: 5vw;
+    }
+
+    .one {
+        margin-left: calc(50% - 320px); 
+    }
+    .three {
+        margin-left: calc(50% - 320px);
+    }
+    .four {
+        margin-left: 10px; 
+    }
+    .five {
+        margin-left: calc(50% - 320px);
+    }
+    .six {
+        margin-left: 10px; 
+    }
+    .seven {
+        margin-left: calc(50% - 160px);
+    }
+}
+
+@media screen and (max-width: 780px) {
+    #finalform {
+        float: left;
+        height: 50vw;
+        width: 90%;
+        background-color: #00aeef;
+        margin-left: 5%;
+        margin-top: 19vw;
+    }
+
+    #finalformtext {
+        font-family: 'CirceLight';
+        font-size: 6.7vw;
+        margin-top: 6.7vw;
+        margin-bottom: 2.7vw;
+        color: white;
+        width: 100%;
+        text-align: center;
+        margin-top: 5.4vw;
+    }
+
+    .finalll {
+        width: 53vw;
+        height: 6.4vw;
+        margin-left: 14vw;
+        padding-left: 8vw;
+    }
+
+    .namefi {
+        background-image: url('img/namebig.png');
+        background-size: contain;
+    }
+    .mailfi {
+        background-image: url('img/phonebig.png');
+        background-size: contain;
+    }
+
+
+    #buttonnfi {
+        width: 61.3vw;
+        height: 6.4vw;
+        margin-left: 14vw;
+        background-color: #6d6e71;
+        border-radius: 1.3vw;
+        border: 0.4vw solid #ffffff;
+        color: white;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 2.7vw;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 710px) {
+
+    #tittle {
+        position: absolute;
+        height: 250px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.7;
+        z-index: 1;
+    }
+    #tittletext {
+        position: absolute;
+        margin-left: 5%;
+        width: 90%;
+        height: 84px;
+        padding-top: 26px;
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 4.2vw;
+        margin-top: 135px;
+    }
+    
+    #phonehead {
+        position: absolute;
+        height: 84px;
+        padding-top: 195px;
+        margin-left: calc(50% - 124px);
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 40px;
+    }
+    
+    #logopicture {
+        position: absolute;
+        z-index: 20;
+        overflow: hidden;
+        height: auto;
+        margin-top: 15px;
+        margin-left: calc(50% - 150px);
+    }
+
+    #logopictureimg {
+        height: auto;
+        width: 300px;
+    }
+    #headform {
+        height: 360px;
+        width: 290px;
+        margin-top: 290px;
+        margin-left: calc(50% - 145px);
+    }
+    .downheadformtextinput {
+        width: 200px;
+        height: 32px;
+        border: 0px;
+        padding-top: 4px;
+        background-repeat: no-repeat;
+        padding-left: 40px;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .one {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .two {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .three {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .four {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%; 
+    }
+    .five {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .six {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%; 
+    }
+    .seven {
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    .iconpr {
+        font-size: 3vw;
+        height: 50vw;
+    }
+    .ikonka {
+        margin-top: 1vw;
+        width: 40vw;
+        height: auto;
+    }
+    
+    #realize {
+        height: 110vw;
+    }
+    
+    .osob {
+        width: 60vw;
+        height: 110vw;
+    }
+    .statustext {
+        font-size: 35px;
+        margin-top: 10px;
+    }
+
+    .descriptext {
+        font-size: 4.5vw;
+        width: 50vw;
+        margin-left: 5vw;
+    }
+
+    small {
+        font-size: 4vw;
+    }
+    
+    #buttonleft {
+        width: 70px;
+        height: 110vw;
+    }
+
+    #buttonright {
+        width: 70px;
+        height: 110vw;
+        margin-left: calc(100% - 70px);
+    }
+    #leftimg {
+        margin-top: 35vw;
+        width: 70px;
+    }
+
+    #rightimg {
+        margin-top: 35vw;
+        width: 70px;
+    }
+    #finalform {
+        float: left;
+        height: 60vw;
+        width: 90%w;
+        background-color: #00aeef;
+        margin-left: 5%;
+        margin-top: 19vw;
+    }
+
+    #finalformtext {
+        font-family: 'CirceLight';
+        font-size: 6.7vw;
+        margin-top: 6.7vw;
+        margin-bottom: 2.7vw;
+        color: white;
+        width: 100%;
+        text-align: center;
+        margin-top: 5.4vw;
+    }
+
+    .finalll {
+        width: 59vw;
+        height: 8vw;
+        margin-left: 10vw;
+        padding-left: 10vw;
+    }
+    
+    #buttonnfi {
+        width: 69vw;
+        height: 6.4vw;
+        margin-left: 10vw;
+        background-color: #6d6e71;
+        border-radius: 1.3vw;
+        border: 0.4vw solid #ffffff;
+        color: white;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 2.7vw;
+        cursor: pointer;
+    }
+
+    .namefi {
+        background-image: url('img/namebig.png');
+        background-size: contain;
+    }
+    .mailfi {
+        background-image: url('img/phonebig.png');
+        background-size: contain;
+    }
+    #phone {
+        width: 90vw;
+        margin-left: 5vw;
+        margin-top: 30px;
+        font-size: 10vw;
+    }
+    #phonepic {
+        height: 7vw;
+        width: auto;
+    }
+    #downheadformtext {
+        height: 37px;
+        padding-top: 13px;
+        width: 100%;
+        text-align: center;
+        color: white;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    
+    #poch{
+        float: left;
+        width: 100%;
+        margin-top: -70px;
+    }
+    
+    #doubleform {
+        background-color: #00aeef;
+        height: 580px;
+    }
+
+    #oneform {
+        margin-top: 40px;
+        width: 260px;
+        height: 240px;
+        margin-left: calc(50% - 130px);
+        float: left;
+    }
+
+    #onebuttonn1 {
+        height: 50px;
+        width: 240px;
+    }
+
+    #onebuttonn2 {
+        height: 50px;
+        width: 240px;
+        margin-left: 0px;
+    }
+
+    #twoform {
+        margin-top: 40px;
+        width: 260px;
+        height: 240px;
+        margin-left: calc(50% - 130px);
+        float: left;
+    }
+
+    #twobuttonn1 {
+        height: 50px;
+        width: 240px;
+    }
+
+    #twobuttonn2 {
+        height: 50px;
+        width: 240px;
+        margin-left: 0px;
+    }
+
+    .otsstup {
+
+    }
+
+    .otstup {
+        margin-left: 0px;
+    }
+    #downheadform {
+        overflow: hidden;
+        height: 214px;
+        width: 90%vw;
+        margin-left: 5%;
+        padding-left: 0vw;
+        background-color: rgba(15, 15, 15, 0.77);
+        padding-top: 0px;
+        color: rgba(15, 15, 15, 0.77);
+    }
+    .downheadformtextinput {
+        width: 75%;
+        height: 32px;
+        border: 0px;
+        padding-top: 4px;
+        margin-left: 5%;
+        background-repeat: no-repeat;
+        padding-left: 15%;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    
+    #buttonn {
+        background-color: rgba(0, 0, 0, 0);
+        border-radius: 10px;
+        border: 3px solid #00aeef;
+        color: white;
+        height: 43px;
+        width: 90%;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 18px;
+        padding: 4px;
+        cursor: pointer;
+        margin-left: 5%;
+    }
+    #buttonnfi {
+	    width: 90%;
+        margin-left: 5%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    #poch{
+        float: left;
+        width: 100%;
+        margin-top: -70px;
+    }
+    #tittle {
+        position: absolute;
+        height: 67vw;
+        width: 100%;
+        background-color: black;
+        opacity: 0.7;
+        z-index: 1;
+    }
+    #tittletext {
+        position: absolute;
+        margin-left: 5%;
+        width: 90%;
+        height: 84px;
+        padding-top: 3vw;
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 4.2vw;
+        margin-top: 44vw;
+    }
+    
+    #phonehead {
+        position: absolute;
+        height: 84px;
+        padding-top: 53vw;
+        margin-left: 14%;
+        color: #00aeef;
+        text-align: center;
+        z-index: 2;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 11vw;
+    }
+    
+    #logopicture {
+        position: absolute;
+        z-index: 20;
+        overflow: hidden;
+        height: auto;
+        margin-top: 18px;
+        margin-left: 8vw;
+    }
+
+    #logopictureimg {
+        height: auto;
+        width: 83vw;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    #downheadformtext {
+        height: 37px;
+        padding-top: 13px;
+        width: 100%;
+        text-align: center;
+        color: white;
+        font-family: 'PFDinTextCondProLight';
+        font-size: 7vw;
+        margin-bottom: 10px;
+    }
+}
